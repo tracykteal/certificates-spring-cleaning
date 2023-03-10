@@ -1,0 +1,27 @@
+---
+format: 
+  html:
+    page-layout: full
+    css: styles.css
+---
+
+```{r echo=FALSE}
+name <- "Lionel Henry"
+```
+
+![](ribbon.jpg)
+
+<center>
+
+### Certificate of Excellence in Spring Cleaning
+
+### `r name`
+
+```{r echo=FALSE}
+library(chatrbox)
+chatrbox()
+
+
+```
+
+</center>
